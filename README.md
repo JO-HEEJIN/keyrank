@@ -23,6 +23,8 @@ pip install -r requirements.txt
 
 ### Google Colab에서 사용하기
 
+![KeyRank 실행 예시](assets/images/image.png)
+
 1. `keyrank.py` 파일을 Colab에 업로드하거나 GitHub에서 직접 로드
 2. 다음과 같이 실행:
 
@@ -33,6 +35,9 @@ run_keyrank()
 
 3. CSV 파일 업로드 프롬프트가 표시되면 키워드 데이터가 포함된 CSV 파일 업로드
 4. 검색할 키워드 입력 후 결과 확인
+
+
+
 
 ### 로컬 환경에서 사용하기
 
